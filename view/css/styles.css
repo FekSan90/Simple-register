@@ -1,0 +1,74 @@
+.table1 {
+  table-layout: fixed;
+  margin: auto;
+  margin-top: 30px;
+  width: 50%;
+  border-collapse: collapse;
+}
+.table1 th,
+.table1 tr {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #adbecf;
+}
+.table1 th #id,
+.table1 tr #id {
+  width: 5%;
+}
+.table1 th #name,
+.table1 tr #name {
+  width: 20%;
+}
+.table1 th #gender,
+.table1 tr #gender {
+  width: 15%;
+}
+.table1 th #birthdate,
+.table1 tr #birthdate {
+  width: 40%;
+}
+.table1 th #action,
+.table1 tr #action {
+  width: 20%;
+}
+.table1 tr:nth-child(even) {
+  background-color: rgba(201, 229, 255, 0.79);
+}
+.table1 tr:nth-child(odd) {
+  background-color: rgba(201, 229, 255, 0.51);
+}
+.table1 tr:hover {
+  background-color: white;
+}
+.table1 td {
+  text-align: center;
+}
+.table1 a {
+  display: inline-grid;
+  height: 30px;
+  width: 30px;
+}
+.table1 #delete {
+  background: url('../img/del.png') no-repeat;
+  background-size: 30px;
+}
+.table1 #modify {
+  background: url('../img/mod.png') no-repeat;
+  background-size: 30px;
+}
+.table1 #send {
+  background: url('../img/tick.png') no-repeat;
+  background-size: 30px;
+}
+.table1 #insert {
+  background: url('../img/add.png') no-repeat;
+  background-size: 30px;
+}
+#error {
+  height: 20px;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}
+/*# sourceMappingURL=styles.css.map */

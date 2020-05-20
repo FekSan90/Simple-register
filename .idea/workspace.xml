@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3c3bd28-67b2-4d2a-9983-a6efff1c0bdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="euronet" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfwCAkCteH7t6M01WU6N5R9tuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/js/less.min.js" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c3bd28-67b2-4d2a-9983-a6efff1c0bdf" name="Default Changelist" comment="" />
+      <created>1579553826290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579553826290</updated>
+      <workItem from="1579553827436" duration="666000" />
+      <workItem from="1579603001571" duration="31665000" />
+      <workItem from="1579679800051" duration="1270000" />
+      <workItem from="1579681213425" duration="28616000" />
+      <workItem from="1579711552700" duration="12726000" />
+      <workItem from="1579784619845" duration="20722000" />
+      <workItem from="1579849598099" duration="12472000" />
+      <workItem from="1579954823789" duration="7250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="216" key="#Configure_Path_Variables" timestamp="1579717853035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="216" key="#Configure_Path_Variables/0.0.1920.1040@0.0.1920.1040" timestamp="1579717853035" />
+    <state x="855" y="99" key="#Inspections" timestamp="1579708962217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="855" y="99" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1579708962217" />
+    <state x="799" y="183" key="#SQL_Dialects" timestamp="1579724205365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="183" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1579724205365" />
+    <state x="799" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579624797174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579624797174" />
+    <state x="594" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1579903280260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579903280260" />
+    <state x="718" y="392" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579795739376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="392" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1579795739376" />
+    <state x="594" y="299" width="731" height="666" key="EditFileWatcherDialog" timestamp="1579681826060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="299" width="731" height="666" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579681826060" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1579644162972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579644162972" />
+    <state x="754" y="335" key="NewPhpClassDialog" timestamp="1579633274568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="335" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579633274568" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1579955868375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579955868375" />
+    <state x="542" y="187" key="SettingsEditor" timestamp="1579681337893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="187" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579681337893" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579954824221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579954824221" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1579806518010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579806518010" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579685347771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579685347771" />
+  </component>
+</project>

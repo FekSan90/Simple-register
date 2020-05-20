@@ -1,0 +1,84 @@
+@blue: rgba(201, 229, 255, 0.79);
+@light-blue: rgba(201, 229, 255, 0.51);
+@header: #adbecf;
+
+.table1 {
+  table-layout:fixed;
+  margin: auto;
+  margin-top: 30px;
+  width: 50%;
+  border-collapse: collapse;
+th, tr{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: @header;
+
+  #id {
+    width: 5%;
+  }
+
+  #name {
+    width: 20%;
+  }
+
+  #gender {
+    width: 15%;
+  }
+
+  #birthdate {
+    width: 40%;
+  }
+
+  #action {
+    width: 20%;
+  }
+
+}
+
+  tr:nth-child(even) {
+    background-color: @blue;
+  }
+
+  tr:nth-child(odd) {
+    background-color: @light-blue;
+  }
+
+  tr:hover {
+    background-color: white;
+  }
+
+
+  td{
+    text-align: center;
+  }
+
+  a {
+    display:inline-grid;
+    height: 30px;
+    width: 30px;
+  }
+  #delete{
+    background: url('../img/del.png') no-repeat;
+    background-size: 30px;
+  }
+  #modify{
+    background: url('../img/mod.png') no-repeat;
+    background-size: 30px;
+  }
+  #send{
+    background: url('../img/tick.png') no-repeat;
+    background-size: 30px;
+  }
+  #insert{
+    background: url('../img/add.png') no-repeat;
+    background-size: 30px;
+  }
+
+}
+#error{
+  height: 20px;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}
